@@ -11,3 +11,6 @@ node_modules/
 # Local scratch artifacts.
 /document.querySelector*
 /x.getAttribute*
+
+# Local environment files created by deployment tooling.
+.env*
