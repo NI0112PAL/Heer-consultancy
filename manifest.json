@@ -1,0 +1,10 @@
+{
+  "name": "Heer Consultancy",
+  "short_name": "Heer",
+  "description": "Tax and government documentation services in Nava Naroda, Ahmedabad.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FEFEFE",
+  "theme_color": "#2C3569",
+  "icons": [{"src": "assets/logo/heer-consultancy-logo.png", "sizes": "6100x2374", "type": "image/png", "purpose": "any"}]
+}

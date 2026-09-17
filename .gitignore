@@ -1,0 +1,13 @@
+.vercel/
+node_modules/
+
+# Local source copies; production PDFs live in assets/forms/.
+/135_TAN_New_Non-Govt.pdf
+/CR 1.pdf
+/CR 2.pdf
+/Form 93.pdf
+/Form 94.pdf
+
+# Local scratch artifacts.
+/document.querySelector*
+/x.getAttribute*
