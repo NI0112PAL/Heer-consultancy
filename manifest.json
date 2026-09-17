@@ -6,5 +6,5 @@
   "display": "standalone",
   "background_color": "#FEFEFE",
   "theme_color": "#2C3569",
-  "icons": [{"src": "assets/logo/heer-consultancy-logo.png", "sizes": "6100x2374", "type": "image/png", "purpose": "any"}]
+  "icons": [{"src": "assets/logo/heer-consultancy-logo.png", "sizes": "5717x1648", "type": "image/png", "purpose": "any"}]
 }
