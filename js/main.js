@@ -1,6 +1,7 @@
 (function(){
   'use strict';
-  const CONFIG=window.BUSINESS_CONFIG={whatsapp:'918160083842',phone:'+918160083842',email:'hitesh12407@gmail.com',formEndpoint:'',googleBusinessUrl:'#'};
+  const BUSINESS_CONFIG={email:'heerconsultancy35@gmail.com',whatsapp:'918160083842',phone:'+918160083842',formEndpoint:'',googleBusinessUrl:'#'};
+  const CONFIG=window.BUSINESS_CONFIG=BUSINESS_CONFIG;
   const $=(s,c=document)=>c.querySelector(s), $$=(s,c=document)=>[...c.querySelectorAll(s)];
   function whatsapp(message){return `https://wa.me/${CONFIG.whatsapp}?text=${encodeURIComponent(message)}`;}
   window.HeerBusiness={CONFIG,whatsapp};
