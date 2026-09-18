@@ -4,7 +4,7 @@
     en: {
       common:{home:'Home',services:'Services',forms:'Forms',about:'About',why:'Why Us',process:'Process',faq:'FAQ',contact:'Contact',call:'Call Now',whatsapp:'Chat on WhatsApp',learn:'Learn More',apply:'Apply / Enquire',viewServices:'View Services',knowMore:'Know More',email:'Email Us',backHome:'Back to home',required:'This field is required.',invalidPhone:'Enter a valid 10-digit mobile number.',invalidEmail:'Enter a valid email address.',select:'Please select an option.',privacy:'Privacy Policy',terms:'Terms',close:'Close'},
       top:{call:'Call: 81600 83842',email:'heerconsultancy35@gmail.com',location:'Nava Naroda, Ahmedabad'},
-      hero:{title:'Reliable Tax & Documentation Services in Ahmedabad',subtitle:'PAN, ITR, GST, PF, ESI and business registration—all supported in one place with clear, convenient guidance.',note:'Clear communication • Convenient support • Local service',visualTitle:'Compliance overview',status:'Assistance ready',verified:'Document guidance',secure:'Secure handover guidance',followup:'Timely follow-up'},
+      hero:{title:'Reliable Tax & Documentation Services',subtitle:'PAN, ITR, GST, PF, ESI and business registration—all supported in one place with clear, convenient guidance.',note:'Clear communication • Convenient support • Local service',visualTitle:'Compliance overview',status:'Assistance ready',verified:'Document guidance',secure:'Secure handover guidance',followup:'Timely follow-up'},
       trust:{pan:'PAN Assistance',itr:'ITR Filing',gst:'GST Services',employee:'PF / ESI',business:'Business Registration'},
       services:{eyebrow:'What we help with',title:'Complete Tax & Documentation Services',intro:'Practical assistance for individuals, professionals and businesses across Ahmedabad.',all:'All Services',tax:'Tax Services',business:'Business Compliance',employee:'Employee Compliance',registration:'Registrations',docs:'Documentation'},
       downloads:{eyebrow:'Important Documents',title:'Download PAN & TAN Forms',intro:'Download commonly required PAN and TAN application and correction forms directly from Heer Consultancy.',document:'PDF Document',view:'View PDF',download:'Download',ctaTitle:"Can't find the form you need?",ctaText:'Contact Heer Consultancy for assistance with the correct PAN, TAN, tax or documentation form.',whatsapp:'WhatsApp Us',swipe:'Swipe to view all forms',downloadAria:'Download {title} PDF',viewAria:'View {title} PDF'},
@@ -26,7 +26,7 @@
     gu: {
       common:{home:'હોમ',services:'સેવાઓ',forms:'ફોર્મ્સ',about:'અમારા વિશે',why:'અમને કેમ પસંદ કરશો?',process:'પ્રક્રિયા',faq:'FAQ',contact:'સંપર્ક',call:'હમણાં કૉલ કરો',whatsapp:'WhatsApp પર વાત કરો',learn:'વધુ જાણો',apply:'અરજી / પૂછપરછ',viewServices:'સેવાઓ જુઓ',knowMore:'વધુ જાણો',email:'ઈમેલ કરો',backHome:'હોમ પર પાછા જાઓ',required:'આ માહિતી જરૂરી છે.',invalidPhone:'માન્ય 10 અંકનો મોબાઇલ નંબર લખો.',invalidEmail:'માન્ય ઈમેલ સરનામું લખો.',select:'કૃપા કરીને વિકલ્પ પસંદ કરો.',privacy:'ગોપનીયતા નીતિ',terms:'શરતો',close:'બંધ કરો'},
       top:{call:'કૉલ: 81600 83842',email:'heerconsultancy35@gmail.com',location:'નવા નરોડા, અમદાવાદ'},
-      hero:{title:'અમદાવાદમાં વિશ્વસનીય ટેક્સ અને ડોક્યુમેન્ટેશન સેવાઓ',subtitle:'PAN, ITR, GST, PF, ESI અને બિઝનેસ રજિસ્ટ્રેશન માટે સ્પષ્ટ અને સરળ માર્ગદર્શન એક જ સ્થળે.',note:'સ્પષ્ટ સંવાદ • સરળ સહાય • સ્થાનિક સેવા',visualTitle:'કમ્પ્લાયન્સની માહિતી',status:'સહાય માટે તૈયાર',verified:'ડોક્યુમેન્ટ માર્ગદર્શન',secure:'સુરક્ષિત હેન્ડઓવર માર્ગદર્શન',followup:'સમયસર ફોલોઅપ'},
+      hero:{title:'વિશ્વસનીય ટેક્સ અને ડોક્યુમેન્ટેશન સેવાઓ',subtitle:'PAN, ITR, GST, PF, ESI અને બિઝનેસ રજિસ્ટ્રેશન માટે સ્પષ્ટ અને સરળ માર્ગદર્શન એક જ સ્થળે.',note:'સ્પષ્ટ સંવાદ • સરળ સહાય • સ્થાનિક સેવા',visualTitle:'કમ્પ્લાયન્સની માહિતી',status:'સહાય માટે તૈયાર',verified:'ડોક્યુમેન્ટ માર્ગદર્શન',secure:'સુરક્ષિત હેન્ડઓવર માર્ગદર્શન',followup:'સમયસર ફોલોઅપ'},
       trust:{pan:'PAN સહાય',itr:'ITR ફાઇલિંગ',gst:'GST સેવાઓ',employee:'PF / ESI',business:'બિઝનેસ રજિસ્ટ્રેશન'},
       services:{eyebrow:'અમારી સહાય',title:'સંપૂર્ણ ટેક્સ અને ડોક્યુમેન્ટેશન સેવાઓ',intro:'અમદાવાદના વ્યક્તિઓ, પ્રોફેશનલ્સ અને બિઝનેસ માટે ઉપયોગી સહાય.',all:'બધી સેવાઓ',tax:'ટેક્સ સેવાઓ',business:'બિઝનેસ કમ્પ્લાયન્સ',employee:'કર્મચારી કમ્પ્લાયન્સ',registration:'રજિસ્ટ્રેશન',docs:'ડોક્યુમેન્ટેશન'},
       downloads:{eyebrow:'જરૂરી દસ્તાવેજો',title:'PAN અને TAN ફોર્મ ડાઉનલોડ કરો',intro:'Heer Consultancy પરથી જરૂરી PAN અને TAN અરજી તથા સુધારા ફોર્મ સરળતાથી ડાઉનલોડ કરો.',document:'PDF દસ્તાવેજ',view:'PDF જુઓ',download:'ડાઉનલોડ',ctaTitle:'તમને જરૂરી ફોર્મ મળ્યું નથી?',ctaText:'યોગ્ય PAN, TAN, Tax અથવા Documentation ફોર્મ માટે Heer Consultancyનો સંપર્ક કરો.',whatsapp:'WhatsApp પર સંપર્ક કરો',swipe:'બધા ફોર્મ જોવા માટે સ્વાઇપ કરો',downloadAria:'{title} PDF ડાઉનલોડ કરો',viewAria:'{title} PDF જુઓ'},
@@ -57,7 +57,7 @@
       const key=el.dataset.i18nHtml, value=t(key,lang);
       if(!value) return;
       if(key==='hero.title'&&lang==='en'){
-        el.innerHTML='Reliable Tax &amp;<br>Documentation<br>Services in <span class="hero-location-highlight">Ahmedabad</span>';
+        el.innerHTML='Reliable Tax &amp;<br>Documentation<br>Services';
       }else{
         el.textContent=value;
       }
